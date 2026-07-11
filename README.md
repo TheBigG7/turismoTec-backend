@@ -2,6 +2,12 @@
 
 Este es el backend del proyecto Turismo TEC, desarrollado con **Spring Boot**. Expone los servicios REST para la gestión de entidades turísticas (Hoteles, Restaurantes, Lugares), reservaciones, foro, publicaciones, y maneja la lógica de negocio, integración con **Firebase** (notificaciones/almacenamiento), **OpenAI** (Chatbot) y **PayPal** (pasarela de pagos).
 
+## 📌 Nota
+
+Este proyecto es una copia/importación de otro repositorio en el que participé activamente. 
+Lo mantengo aquí en mi perfil para tener control sobre el código y mostrar mi aporte, 
+ya que el repositorio original podría ser eliminado en cualquier momento.
+
 ## Tecnologías Principales
 - **Framework:** Spring Boot (Java 17)
 - **Seguridad:** Spring Security con JSON Web Tokens (JWT)
